@@ -1,0 +1,19 @@
+GIT
+
+Foi criado em 2005;
+Sistema de versionamento de código distribuído;
+Criado por Linus Torvalds (criador do Linux);
+
+Git é diferente de Github
+
+Alguns comandos para Windows:
+
+cd -> change direction (vai para alguma pasta)
+.. -> volta para a pasta que estava;
+dir -> lista o diretório
+mkdir -> criar diretório;
+del/rmdir -> deleta um diretório;
+
+Link para download do GIT:
+
+https://git-scm.com/downloads
