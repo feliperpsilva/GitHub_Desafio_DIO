@@ -1,5 +1,5 @@
-# Repósitorio criado para cumprir o desafio da DIO
-## Desafio de projeito sobre GIT/GITHUB
+# Desafio de projeito sobre GIT/GITHUB
+##  Repósitorio criado para cumprir o desafio da DIO
 
 ### Links úteis:
 
